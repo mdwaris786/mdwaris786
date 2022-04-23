@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdwaris786" alt="mdwaris786" /></a> </p>
 
-- 🌱 I’m currently learning **Web Devlopement**
+- 🌱 I’m currently learning **Web Developement**
 
 - 📫 How to reach me **mdwaris7860786@gmail.com**
 
