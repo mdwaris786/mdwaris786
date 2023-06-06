@@ -1,16 +1,16 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hello World!!😀👋, This is Md Waris</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h3 align="center">Technology Enthusiast😎</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 📫 How to reach me **https://www.linkedin.com/in/md-waris-20a97b22b**.
 - 🎓 I’m currently pursuing **CSE(B.Tech)** at **Camellia Institute of Technology**.
 - ✍️ I’m learning **Web Development**.
-- 👀 I’m interested in **Frontend Web Development**.
+- 👀 I’m interested in **Full Stack Web Development**.
 - 💞️ I’m looking for **SDE** roles.
 
 - :technologist: **My Coding Profiles**:-
-<br/> [<img height="80" width="100" src="https://cdn0.desidime.com/topics/photos/1421274/original/Screenshot_2022-04-10_at_1.36.37_PM.png?1649578014"/>](https://auth.geeksforgeeks.org/user/mdwaris786/profile) [<img height="80" width="200" src="https://www.kindpng.com/picc/m/290-2901833_codechef-is-a-non-commercial-competitive-programming-signage.png"/>](https://www.codechef.com/users/mdwaris786)[<img height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"/>](https://www.hackerrank.com/mdwaris786)
+<br/> [<img height="80" width="100" src="https://cdn0.desidime.com/topics/photos/1421274/original/Screenshot_2022-04-10_at_1.36.37_PM.png?1649578014"/>](https://auth.geeksforgeeks.org/user/mdwaris786/profile)
 
 ## Languages and Tools Used:
 <p align="left"> 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sql"/>
+<img src="https://img.shields.io/badge/MySql-07405E?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </p>
 
