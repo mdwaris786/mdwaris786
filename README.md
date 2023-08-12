@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web & Software Developer👨🏻‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-waris-20a97b22b**.
+- 📫 How to reach me:  **mdwaris7860786@gmail.com**
 - 🎓 Graduated from **Camellia Institute of Technology**, under Maulana Abul Kalam Azad University of Technology.
 
 - 🌐 Passionate about **Web Development and Software Development** with a focus on creating seamless user experiences.
