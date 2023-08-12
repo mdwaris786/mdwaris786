@@ -4,10 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 📫 How to reach me **https://www.linkedin.com/in/md-waris-20a97b22b**.
-- 🎓 I’m currently pursuing **CSE(B.Tech)** at **Camellia Institute of Technology**.
-- ✍️ I’m learning **Web Development**.
-- 👀 I’m interested in **Full Stack Web Development**.
-- 💞️ I’m looking for **SDE** roles.
+- 🎓 Graduated from **Camellia Institute of Technology**, under Maulana Abul Kalam Azad University of Technology.
+
+- 🌐 Passionate about **Web Development and Software Development** with a focus on creating seamless user experiences.
+
+- 💼 Interned at Coding Object and Oasis Infobyte Companies, where I honed my skills in **HTML5, CSS3, JavaScript, Bootstrap, React.js, Node.js, and .Net**.
+
+- 🚀 Collaborated with back-end developers to deliver high-quality, well-rounded web solutions.
+
+- 🔍 Always eager to tackle challenges and stay ahead of the curve with the latest technologies.
+
+- 🌟 Seeking a challenging role in a reputable organization to continue my learning journey and apply my skills.
 
 - :technologist: **My Coding Profiles**:-
 <br/> [<img height="80" width="100" src="https://cdn0.desidime.com/topics/photos/1421274/original/Screenshot_2022-04-10_at_1.36.37_PM.png?1649578014"/>](https://auth.geeksforgeeks.org/user/mdwaris786/profile)
