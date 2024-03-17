@@ -1,18 +1,25 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](https://www.shutterstock.com/image-vector/banner-aml-concept-anti-money-260nw-2171092473.jpg)
 <h1 align="center">Hello World!!😀👋, This is Md Waris</h1>
-<h3 align="center">A passionate Web & Software Developer👨🏻‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<h3 align="center">Passionate AML analyst with a keen eye for detail and a strong dedication to combatting financial crime.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-- 📫 How to reach me:  **mdwaris7860786@gmail.com**
-- 🎓 Graduated from **Camellia Institute of Technology**, under Maulana Abul Kalam Azad University of Technology.
+- 📧 Contact: Feel free to reach out for collaboration opportunities or discussions related to AML, financial crime, or data analysis. You can contact me via email at **[mdwaris7860786@gmail.com]**.
+- 🎓 Education **[B.Tech/ Computer Science]**: Camellia Institute of Technology, under Maulana Abul Kalam Azad University of Technology.
+- 💼 Experience **[Associate Analyst/ AML RightSource]**: Conducting in-depth AML investigations, analyzing transactional data, and collaborating with cross-functional teams to ensure regulatory compliance.
+- 🛠️ Skills:
+- AML Compliance
+- Transaction Monitoring
+- KYC (Know Your Customer) Procedures
+- Suspicious Activity Reporting
+- Data Analysis
+- Risk Assessment
+- Regulatory Compliance
+- Investigation Techniques
+- Financial Crime Detection
+- Team Collaboration
 
-- 🌐 Passionate about **Web Development and Software Development** with a focus on creating seamless user experiences.
-
-- 💼 Interned at Coding Object and Oasis Infobyte Companies, where I honed my skills in **HTML5, CSS3, JavaScript, Bootstrap, React.js, Node.js, and .Net**.
-
-- 🚀 Collaborated with back-end developers to deliver high-quality, well-rounded web solutions.
-
-- 🔍 Always eager to tackle challenges and stay ahead of the curve with the latest technologies.
+- 🔍 Proficient in conducting thorough investigations and utilizing advanced data analysis techniques to detect suspicious activities and mitigate risks. Constantly seeking new challenges and opportunities to     
+      contribute to the integrity of the financial system.
 
 - 🌟 Seeking a challenging role in a reputable organization to continue my learning journey and apply my skills.
 
